@@ -1,3 +1,4 @@
 # francofonceca15-gmail.com
-Organizador de tareas con PHP, AJAX y JQUERY
-estoy en la rama de editar aprendiendo a usar git
+Organizador de tareas :
+BACK END: PHP  AJAX Y JQUERY.
+FRONT END:  HTML5 CSS3 con framework Bootstrap.
